@@ -38,12 +38,12 @@ Overall_Experience: Rating of overall experience (0-5).
 Aims and Objectives
 The aim of this project is to develop a machine learning model that accurately predicts the overall experience of train customers. The objectives are to:
 
-	Clean and preprocess the data
-	Analyze the data to identify any trends or patterns
-	Select the most relevant features for the model
-	Train a machine learning model on the preprocessed data
-	Evaluate the performance of the model using cross-validation
-	Make predictions on a test set
+- Clean and preprocess the data
+- Analyze the data to identify any trends or patterns
+-	Select the most relevant features for the model
+- Train a machine learning model on the preprocessed data
+- Evaluate the performance of the model using cross-validation
+- Make predictions on a test set
 
 Preprocessing
 
